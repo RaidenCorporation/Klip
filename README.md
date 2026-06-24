@@ -30,3 +30,10 @@ Klip™ is only available as an APK for Android.
 6. Look for app-release.apk.
 7. Once you found the APK file, press the 3 dots ⋮ or hold the file and press "Install".
 8. It will be installed to your device. Enjoy the fun and coin collecting!
+
+# Beta Program 
+You can join our Klip™ v3.0 Beta Program for free. It is still in beta development.
+
+The beta release is currently only a single HTML and not an APK yet because I am looking for a HTML-to-APK converter.
+
+To experience the v3.0 beta program, visit the pre-release from the Releases tab, or visit this link.
