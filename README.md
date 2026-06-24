@@ -14,7 +14,7 @@ For those out there feeling bored, stressed, or just something on your mind irri
 
 
 # Platform Availability
-Klip™ is currently only available as an APK for Android. It is soon coming to Windows.
+Klip™ is only available as an APK for Android.
 
 
 
