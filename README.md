@@ -1,5 +1,5 @@
 # 🪨 Klip™ (formerly RockZ™) - The Fun and Best Free Anti-stress Game
-🪨 Klip™ (formerly RockZ™) is a fun, anti stress and lightweight game. Feeling stressed? Download RockZ™ for Android and start picking, flinging, throwing, and smashing rocks in RockZ™! 
+🪨 Klip™ (formerly RockZ™) is a fun, anti stress and lightweight game. Feeling stressed? Download RockZ™ for Android and start smashing rocks to make shards to farm coins in RockZ™! 
 
 
 >  **Android only APK.**   
