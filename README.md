@@ -1,4 +1,4 @@
-Klip is a fun, antistress and lightweight game. Feeling stressed? Download RockZ for Android and start smashing rocks to make shards to farm coins in Klip! 
+Klip is a fun, antistress and lightweight game. Feeling stressed? Play Klip and start smashing rocks to make shards to farm coins! 
 
 
 
