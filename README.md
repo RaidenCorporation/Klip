@@ -1,4 +1,4 @@
-Klip is a fun, antistress and lightweight game. Feeling stressed? Play Klip and start smashing rocks to make shards to farm coins! 
+**Klip** is a fun, antistress and lightweight game. Feeling stressed? Play Klip and start smashing rocks to make shards to farm coins! 
 
 
 
