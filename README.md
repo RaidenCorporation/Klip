@@ -25,4 +25,12 @@ Klip is only available as an APK for Android.
 
 ---
 
+# ℹ️ Information
+
+**Creator:** [Raiden Corporation](https://github.com/RaidenCorporation) (Raiden Bisnath)
+
+**Licence:** [NoModify Source-Available Licence](https://github.com/RaidenCorporation/NM-SA-licence) (NM-SA licence) or at [LICENCE.md](./LICENCE.md)
+
+_[Not open-source.]_
+
 **Current Version:** [Klip 3](https://RaidenCorporation/Klip/releases/tag/3) (v3.0)
